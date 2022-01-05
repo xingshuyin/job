@@ -1,0 +1,328 @@
+[
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1953014218.001667,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__s_bid",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "81d5397ca867c59ee2aac985c61c6130f5e7",
+    "id": 1
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__session_seq",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "4",
+    "id": 2
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__tlog",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1638363176333.21%7C00000000%7C00000000%7C00000000%7C00000000",
+    "id": 3
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 2268374216,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__uuid",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1637654216967.69",
+    "id": 4
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1638374399,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "__uv_seq",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "4",
+    "id": 5
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1638449601,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "access_system",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "C",
+    "id": 6
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 3785846848.959896,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "c_flag",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "c85a6762bfcd63289efab65e9ee3a409",
+    "id": 7
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "fe_im_connectJson_0",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "%7B%220_a1d5e0ed718243c1a9dba665e9526a14%22%3A%7B%22socketConnect%22%3A%221%22%2C%22connectDomain%22%3A%22liepin.com%22%7D%7D",
+    "id": 8
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "fe_im_socketSequence_new_0",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1_0_1",
+    "id": 9
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "Hm_lpvt_a2647413544f5a04f00da7eee0d5e200",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1638363296",
+    "id": 10
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1669899296,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "Hm_lvt_a2647413544f5a04f00da7eee0d5e200",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "1637654718,1637654916,1637662433,1638363176",
+    "id": 11
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "imApp_0",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1",
+    "id": 12
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1649163297.243241,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "imClientId",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "f23ca8cc24dc617d1c0bb4d047da1ad5",
+    "id": 13
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1649163297.243453,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "imClientId_0",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "f23ca8cc24dc617d1c0bb4d047da1ad5",
+    "id": 14
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1649163297.243375,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "imId",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "f23ca8cc24dc617db71fd689b554a5f1",
+    "id": 15
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1649163297.243522,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "imId_0",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "f23ca8cc24dc617db71fd689b554a5f1",
+    "id": 16
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "inited_user",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "5f4b3212704fb5dec8d7ccae30d6b992",
+    "id": 17
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 3785846848.853751,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "lt_auth",
+    "path": "/",
+    
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "vboPbiQBx12rsnDfgWoNtv0Z3Y%2BoUDjKpn1e1B4DgYS4DfTl4P%2FjQQuGr7AC%2FioIqx91cK0zMLb9%0D%0APev4ynFK6EMa%2FFGnlp6uv%2F%2Bzz30ET%2FpkIPqflMXuqtzpQJwnk3k6ykpjn3ki0HU%3D%0D%0A",
+    "id": 18
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 3785846848.959865,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "need_bind_tel",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "false",
+    "id": 19
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1638374399.959881,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "new_user",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "true",
+    "id": 20
+},
+{
+    "domain": ".liepin.com",
+    "expirationDate": 1638385198.853698,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "UniqueKey",
+    "path": "/",
+    
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "a1d5e0ed718243c1a9dba665e9526a14",
+    "id": 21
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "user_name",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "%E9%82%A2%E4%B9%A6%E5%8D%B0",
+    "id": 22
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "user_photo",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "5f8fa3a679c7cc70efbf444e08u.png",
+    "id": 23
+},
+{
+    "domain": ".liepin.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "user_roles",
+    "path": "/",
+    
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "0",
+    "id": 24
+}
+]
